@@ -32,7 +32,7 @@
           <li><a href="cngf_algo.jsp">CNGF</a></li>
           <li><a href="nfpp_algo.jsp">Prolific NN</a></li>
           <li><a href="random_algo.jsp">Random Walk</a></li>
-          <li><a href="pagerank_algo.jsp">Page Rank</a></li>
+          <li><a href="pagerank.jsp">Page Rank</a></li>
         </ul>
 
       </div>

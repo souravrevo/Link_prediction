@@ -59,4 +59,24 @@
     <servlet-name>NFPP</servlet-name>
     <url-pattern>/NFPP</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Page_rank</display-name>
+    <servlet-name>Page_rank</servlet-name>
+    <servlet-class>pack.Page_rank</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Page_rank</servlet-name>
+    <url-pattern>/Page_rank</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>sam</display-name>
+    <servlet-name>sam</servlet-name>
+    <servlet-class>pack.sam</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sam</servlet-name>
+    <url-pattern>/sam</url-pattern>
+  </servlet-mapping>
 </web-app>

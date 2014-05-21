@@ -55,7 +55,7 @@ background-color:#b0e0e6;
     <div id="site_content">
       
       <div id="content">
-        <form name="form1" action="cngf" method="get">
+        <form name="form1" action="sam" method="get">
 	<table align="center">
 	<tr>
 	<td id="style1"> Name </td>
